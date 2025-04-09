@@ -1,4 +1,6 @@
+# README
 
+Internship research found on [secure-aggregation](https://github.com/zxj-c/FL4Health/tree/secure-aggregation) branch.
 
 # FL4Health
 
